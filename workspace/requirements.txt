@@ -1,0 +1,5 @@
+setuptools==80.8.0
+argon2-cffi==21.3.0
+nava==0.7
+tksheet==7.4.21
+dotenv==1.1.0
